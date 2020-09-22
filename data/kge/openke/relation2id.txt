@@ -1,0 +1,4 @@
+3
+situated-OP	0
+situated-OA	1
+situated-AP	2
